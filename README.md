@@ -18,6 +18,8 @@
   
 ![](https://visitor-badge.glitch.me/badge?page_id=Zer0Power.Zer0Power)
 
+Hi, I'm [Zero Power!](https://t.me/zero_p0wer), a self-taught Web Developer & Pentester 🚀 from Iran.
+
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
 
 **Personal Stuffs:**
