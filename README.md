@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.instagram.com/zer0_p0wer/">
-  <img align="left" alt="Zer0Power's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e7/20160929061519%21Instagram_logo_2016.svg" />
+  <img align="left" alt="Zer0Power's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e7/20160929161413%21Instagram_logo_2016.svg" />
 </a>
 
 <a href="https://t.me/zero_p0wer">
