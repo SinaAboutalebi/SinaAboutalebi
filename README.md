@@ -24,9 +24,9 @@ Hi, I'm [Zero Power!](https://t.me/zero_p0wer), a self-taught Web Developer & Pe
 
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Steam Bots :wink:;
+- 👨🏽‍💻 I’m currently working on Developing MaxGaming :wink:;
 - 🌱 I’m currently learning JavaScript; 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I will be happy to help;
 - 📫 How to reach me: [@Zero_P0wer](https://t.me/zero_p0wer);
 
 **Languages and Tools:**  
