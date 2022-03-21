@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/ZqNzHUp">
+<a href="discord.maxgaming.ir">
   <img align="left" alt="Zer0Power's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
@@ -18,13 +18,13 @@
   
 ![](https://visitor-badge.glitch.me/badge?page_id=Zer0Power.Zer0Power)
 
-Hi, I'm [Zero Power!](https://t.me/zero_p0wer), a self-taught Web Developer & Pentester 🚀 from Iran.
+Hi, I'm [Zero Power!](https://t.me/zero_p0wer), a self-taught Web Developer & Ex-Pentester 🚀 from Iran.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://pa1.narvii.com/7268/9d3c113239c0dbc4131c26e8d1607fa960511499r4-500-230_00.gif" width="500" height="230" />
 
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Developing MaxGaming :wink:;
+- 👨🏽‍💻 I’m currently working on Developing [Secret Project](http://0powerdev.ir/) :wink:;
 - 🌱 I’m currently learning JavaScript; 
 - 💬 Ask me about anything, I will be happy to help;
 - 📫 How to reach me: [@Zero_P0wer](https://t.me/zero_p0wer);
