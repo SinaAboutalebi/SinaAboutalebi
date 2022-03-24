@@ -1,19 +1,19 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="discord.maxgaming.ir">
-  <img align="left" alt="Zer0Power's Discord" width="22px" src="http://0powerdev.ir/assest/img/ic-discord.png" />
+  <img align="left" alt="Zer0Power's Discord" width="22px" src="https://img.icons8.com/dotty/80/000000/discord-logo.svg" />
 </a>
 
 <a href="https://www.instagram.com/zer0_p0wer/">
-  <img align="left" alt="Zer0Power's Instagram" width="22px" src="http://0powerdev.ir/assest/img/ic-instagram.png" />
+  <img align="left" alt="Zer0Power's Instagram" width="22px" src="https://img.icons8.com/dotty/80/000000/instagram-new.svg" />
 </a>
 
 <a href="https://github.com/Zer0Power">
-  <img align="left" alt="Zer0Power's Github" width="22px" src="http://0powerdev.ir/assest/img/ic-github.png" />
+  <img align="left" alt="Zer0Power's Github" width="22px" src="https://img.icons8.com/dotty/80/000000/github.svg" />
 </a>
 
 <a href="https://t.me/zero_p0wer">
-  <img align="left" alt="Zer0Power's Telegram" width="22px" src="http://0powerdev.ir/assest/img/ic-telegram.png" />
+  <img align="left" alt="Zer0Power's Telegram" width="22px" src="https://img.icons8.com/dotty/80/000000/telegram-app.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Zer0Power.Zer0Power)
