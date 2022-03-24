@@ -3,15 +3,15 @@
 <a href="discord.maxgaming.ir">
   <img align="left" alt="Zer0Power's Discord" width="25px" src="https://img.icons8.com/dotty/80/ffffff/discord-logo.svg" />
 </a>
-●
+
 <a href="https://www.instagram.com/zer0_p0wer/">
   <img align="left" alt="Zer0Power's Instagram" width="25px" src="https://img.icons8.com/dotty/80/ffffff/instagram-new.svg" />
 </a>
-●
+
 <a href="https://github.com/Zer0Power">
   <img align="left" alt="Zer0Power's Github" width="25px" src="https://img.icons8.com/dotty/80/ffffff/github.svg" />
 </a>
-●
+
 <a href="https://t.me/zero_p0wer">
   <img align="left" alt="Zer0Power's Telegram" width="25px" src="https://img.icons8.com/dotty/80/ffffff/telegram-app.svg" />
 </a>
