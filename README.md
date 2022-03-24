@@ -1,21 +1,21 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="discord.maxgaming.ir">
-  <img align="left" alt="Zer0Power's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Zer0Power's Discord" width="22px" src="http://0powerdev.ir/assest/img/ic-discord.png" />
 </a>
-
-<a href="https://youtube.com/channel/UC0zHz5MTVehvYURNfw22lVw">
-  <img align="left" alt="Zer0Power's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-
+●
 <a href="https://www.instagram.com/zer0_p0wer/">
-  <img align="left" alt="Zer0Power's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e7/20160929161413%21Instagram_logo_2016.svg" />
+  <img align="left" alt="Zer0Power's Instagram" width="22px" src="http://0powerdev.ir/assest/img/ic-instagram.png" />
 </a>
-
+●
+<a href="https://github.com/Zer0Power">
+  <img align="left" alt="Zer0Power's Github" width="22px" src="http://0powerdev.ir/assest/img/ic-github.png" />
+</a>
+●
 <a href="https://t.me/zero_p0wer">
-  <img align="left" alt="Zer0Power's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/archive/8/82/20150929025725%21Telegram_logo.svg" />
+  <img align="left" alt="Zer0Power's Telegram" width="22px" src="http://0powerdev.ir/assest/img/ic-telegram.png" />
 </a>
-  
+●
 ![](https://visitor-badge.glitch.me/badge?page_id=Zer0Power.Zer0Power)
 
 Hi, I'm [Zero Power!](https://t.me/zero_p0wer), a self-taught Web Developer & Ex-Pentester 🚀 from Iran.
@@ -39,6 +39,10 @@ Hi, I'm [Zero Power!](https://t.me/zero_p0wer), a self-taught Web Developer & Ex
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zer0Power&show_icons=true&theme=nord&hide=contribs,issues" alt="ZeroPwers's Github Stat :D"></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Power&layout=compact&theme=nord"></br>
+</p>
 
 <!--
 **Zer0Power/Zer0Power** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
