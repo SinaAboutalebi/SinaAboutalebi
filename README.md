@@ -25,7 +25,7 @@ Hi, I'm [Zero Power!](https://t.me/zero_p0wer), a self-taught Web Developer & Ex
 **Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Developing [Secret Project](http://0powerdev.ir/) :wink:;
-- 🌱 I’m currently learning JavaScript; 
+- ⚡ I’m currently learning JavaScript; 
 - 💬 Ask me about anything, I will be happy to help;
 - 📫 How to reach me: [@Zero_P0wer](https://t.me/zero_p0wer);
 
