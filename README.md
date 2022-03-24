@@ -3,19 +3,19 @@
 <a href="discord.maxgaming.ir">
   <img align="left" alt="Zer0Power's Discord" width="22px" src="http://0powerdev.ir/assest/img/ic-discord.png" />
 </a>
-●
+
 <a href="https://www.instagram.com/zer0_p0wer/">
   <img align="left" alt="Zer0Power's Instagram" width="22px" src="http://0powerdev.ir/assest/img/ic-instagram.png" />
 </a>
-●
+
 <a href="https://github.com/Zer0Power">
   <img align="left" alt="Zer0Power's Github" width="22px" src="http://0powerdev.ir/assest/img/ic-github.png" />
 </a>
-●
+
 <a href="https://t.me/zero_p0wer">
   <img align="left" alt="Zer0Power's Telegram" width="22px" src="http://0powerdev.ir/assest/img/ic-telegram.png" />
 </a>
-●
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Zer0Power.Zer0Power)
 
 Hi, I'm [Zero Power!](https://t.me/zero_p0wer), a self-taught Web Developer & Ex-Pentester 🚀 from Iran.
