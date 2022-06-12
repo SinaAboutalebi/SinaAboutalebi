@@ -1,4 +1,4 @@
-<h2> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" ></h2>
+<h2> Hi there <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >--></h2>
 
 <a href="discord.maxgaming.ir">
   <img align="left" alt="Zer0Power's Discord" width="25px" src="https://img.icons8.com/dotty/80/ffffff/discord-logo.svg" />
