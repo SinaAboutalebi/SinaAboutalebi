@@ -37,7 +37,7 @@
 <h2 align="center">About Me <img src="https://github.com/Zer0Power/Zer0Power/blob/main/images/source.gif" width="50"></h2>
 <p>Hi, I'm Sina, a self-taught Web Developer & Ex-Pentester and Totally crazy in hardware and software:)🔥</p></br>
 
-<img align="right" alt="=)" src="https://github.com/Zer0Power/Zer0Power/blob/main/images/Another.gif" width="500" height="220" />
+<img align="right" alt="=)" src="https://github.com/Zer0Power/Zer0Power/blob/main/images/Another.gif" width="50%" height="220" />
 
 Personal Stuffs :
 
