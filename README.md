@@ -1,62 +1,67 @@
-<h2> Hi there <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >--></h2>
-
-<a href="discord.maxgaming.ir">
-  <img align="left" alt="Zer0Power's Discord" width="25px" src="https://img.icons8.com/dotty/80/ffffff/discord-logo.svg" />
-</a>
-
-<a href="https://www.instagram.com/zer0_p0wer/">
-  <img align="left" alt="Zer0Power's Instagram" width="25px" src="https://img.icons8.com/dotty/80/ffffff/instagram-new.svg" />
-</a>
-
-<a href="https://github.com/Zer0Power">
-  <img align="left" alt="Zer0Power's Github" width="25px" src="https://img.icons8.com/dotty/80/ffffff/github.svg" />
-</a>
-
-<a href="https://t.me/zero_p0wer">
-  <img align="left" alt="Zer0Power's Telegram" width="25px" src="https://img.icons8.com/dotty/80/ffffff/telegram-app.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Zer0Power.Zer0Power)
-
-Hi, I'm [Zero Power!](https://t.me/zero_p0wer), a self-taught Web Developer & Ex-Pentester 🚀 from Iran.
-
-<img align="right" alt="GIF" src="https://pa1.narvii.com/7268/9d3c113239c0dbc4131c26e8d1607fa960511499r4-500-230_00.gif" width="500" height="230" />
-
-**Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on Developing [Secret Project](http://0powerdev.ir/) :wink:;
-- ⚡ I’m currently learning JavaScript; 
-- 💬 Ask me about anything, I will be happy to help;
-- 📫 How to reach me: [@Zero_P0wer](https://t.me/zero_p0wer);
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-
-# ZeroPower's Stat
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&width=435&lines=Welcome+There+!%F0%9F%91%8B" />
+<h2 align="center"></h2>
+<a href="https://github.com/Zer0Power"><img src="https://github.com/Zer0Power/Zer0Power/blob/main/images/GithubBanner.jpg" width="100%" height="auto"/></a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zer0Power&show_icons=true&theme=nord&hide=contribs,issues" alt="ZeroPwers's Github Stat :D"></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Power&layout=compact&theme=nord"></br>
+<a href="discord.maxgaming.ir">
+<img alt="Zer0Power's Discord" width="50px" src="https://img.icons8.com/dotty/80/ffffff/discord-logo.svg" />
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://www.instagram.com/zer0_p0wer/">
+  <img alt="Zer0Power's Instagram" width="50px" src="https://img.icons8.com/dotty/80/ffffff/instagram-new.svg" />
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://open.spotify.com/user/zl7sau4mrd9vv043uoorcn3t8?si=7d2793dedc7240b7&nd=1">
+  <img  alt="Zer0Power's Github" width="50px" src="https://img.icons8.com/dotty/80/ffffff/spotify.svg" />
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://t.me/zero_p0wer">
+  <img alt="Zer0Power's Telegram" width="50px" src="https://img.icons8.com/dotty/80/ffffff/telegram-app.svg" />
+</a>
 </p>
 
-<!--
-**Zer0Power/Zer0Power** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Technology Stack <img src="https://github.com/Zer0Power/Zer0Power/blob/main/images/laptop.gif" width="50"></h2>
 
-Here are some ideas to get you started:
+<p align="center">
+<!--<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>-->
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Zer0Power.Zer0Power"/>
+</p>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">About Me <img src="https://github.com/Zer0Power/Zer0Power/blob/main/images/source.gif" width="50"></h2>
+<p>Hi, I'm Sina, a self-taught Web Developer & Ex-Pentester and Totally crazy in hardware and software:)🔥</p></br>
+
+<img align="right" alt="GIF" src="https://github.com/Zer0Power/Zer0Power/blob/main/images/Another.gif" width="500" height="220" />
+
+Personal Stuffs :
+
+- 👨🏽‍💻 I’m currently working on Developing [Secret Project](http://0powerdev.ir/) :wink:;
+
+- ⚡ I’m currently learning JavaScript; 
+
+- 💬 Ask me about anything, I will be happy to help;
+
+- 📫 How to reach me: [@Zero_P0wer](https://t.me/zero_p0wer);
+
+</br >
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Zer0Power&theme=nord">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zer0Power&show_icons=true&theme=nord" alt="ZeroPwers's Github Stat :D">
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Power&theme=nord">-->
+</p>
+
+  
+  
+  
+
