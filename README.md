@@ -1,7 +1,7 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&width=435&lines=Welcome+There+!%F0%9F%91%8B" />
 <h2 align="center"></h2>
 <a href="https://github.com/Zer0Power"><img src="https://github.com/Zer0Power/Zer0Power/blob/main/images/GithubBanner.jpg" width="100%" height="auto"/></a>
-
+<br>
 <p align="center">
 <a href="discord.maxgaming.ir">
 <img alt="Zer0Power's Discord" width="50px" src="https://img.icons8.com/dotty/80/ffffff/discord-logo.svg" />
