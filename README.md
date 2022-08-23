@@ -54,7 +54,7 @@
 
 Personal Stuffs :
 
-- 👨🏽‍💻 I’m currently working on Developing [Secret Project](http://0powerdev.ir/) :wink:;
+- 👨🏽‍💻 I’m currently working on Developing [0PowerDev](http://0powerdev.ir/) :wink:;
 
 - ⚡ I’m currently learning JavaScript; 
 
