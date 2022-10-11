@@ -3,6 +3,7 @@
 <a href="https://github.com/Zer0Power"><img src="https://github.com/Zer0Power/Zer0Power/blob/main/images/GithubBanner.jpg" width="100%" height="auto"/></a>
 </br>
 </br>
+<!-- 
 <p align="center">
 <a href="discord.maxgaming.ir">
 <img alt="Zer0Power's Discord" width="50px" src="https://img.icons8.com/dotty/80/ffffff/discord-logo.svg" />
@@ -19,7 +20,7 @@
 <a href="https://t.me/zero_p0wer">
   <img alt="Zer0Power's Telegram" width="50px" src="https://img.icons8.com/dotty/80/ffffff/telegram-app.svg" />
 </a>
-</p>
+</p>-->
 
 <h2 align="center">Technology Stack<img src="https://github.com/Zer0Power/Zer0Power/blob/main/images/laptop.gif" width="50"></h2>
 
