@@ -27,9 +27,9 @@
 <p align="center">
 <!--<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>-->
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=visual%20studio%20code"/>
 <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=white"/>
@@ -42,7 +42,7 @@
 <a href="https://csgostats.gg/player/76561198888359740#/"><img src="https://img.shields.io/badge/Counter_Strike-black?style=flat-square&logo=counter-strike&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Zer0_power"><img src="https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam&logoColor=white"/></a>
 <a href="http://0powerdev.ir/"><img src="https://img.shields.io/badge/website-black?style=flat-square&logo=About.me&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=Zer0Power.Zer0Power&left_color=black&right_color=black"/>
 </p>
