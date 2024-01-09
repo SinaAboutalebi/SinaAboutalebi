@@ -74,7 +74,8 @@ Personal Stuffs :
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SinaAboutalebi&theme=nord">
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Power&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api?username=SinaAboutalebi&theme=nord"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Power&theme=nord">
   <img src="https://github-readme-stats.vercel.app/api?username=SinaAboutalebi&show_icons=true&theme=nord" alt="ZeroPwers's Github Stat :D">
   -->
 </p>
