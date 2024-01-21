@@ -1,6 +1,6 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&width=435&lines=Welcome+There+!%F0%9F%91%8B" />
 <h2 align="center"></h2>
-<a href="https://github.com/SinaAboutalebi"><img src="https://github.com/SinaAboutalebi/SinaAboutalebi/blob/main/images/GithubBanner.jpg" width="100%" height="auto"/></a>
+<a href="https://github.com/SinaAboutalebi"><img src="https://github.com/SinaAboutalebi/SinaAboutalebi/blob/main/images/2ndGithubBanner.jpg" width="100%" height="auto"/></a>
 </br>
 </br>
 <!-- 
