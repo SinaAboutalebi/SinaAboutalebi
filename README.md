@@ -52,15 +52,15 @@
 </br>
 
 <h2 align="center">About Me<img src="https://github.com/SinaAboutalebi/SinaAboutalebi/blob/main/images/source.gif" width="50"></h2>
-<p>Hi, I'm Sina, a self-taught Web Developer & Ex-Pentester and Totally crazy in hardware and software:)🔥</p></br>
+<p>Hi, I'm Sina, a self-taught DevOps Engr & Sysadmin, Totally crazy in hardware and software, Linux Lover , Tryin' to Dockerize Everything :D , intrested in Infrastructure & Cloud Computing☁️ , Im Lazy as f So i Automate Everything :)🔥</p></br>
 
 <img align="right" alt="=)" src="https://github.com/SinaAboutalebi/SinaAboutalebi/blob/main/images/Another.gif" width="50%" height="220" />
 
 Personal Stuffs :
 
-- 👨🏽‍💻 I’m currently working on Developing [0PowerDev](http://0powerdev.ir/) :wink:;
+- 👨🏽‍💻 I’m currently working on Cloud Computing :wink:;
 
-- ⚡ I’m currently learning JavaScript; 
+- ⚡ I’m currently learning Cloud Basics; 
 
 - 💬 Ask me about anything, I will be happy to help;
 
