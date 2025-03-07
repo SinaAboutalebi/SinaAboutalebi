@@ -18,10 +18,12 @@
         src="https://img.shields.io/badge/-Twitter-2d2d2d?style=flat-square&logo=X&logoColor=white">
         </a>
         <a href="https://www.linkedin.com/in/sina-aboutalebi-8b64762b9" target="_blank"><img alt="LinkedIn"
-        src="https://img.shields.io/badge/-LinkedIn-2d2d2d?style=flat-square&logo=linkedin&&logoColor=white">
+        src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-2d2d2d?style=flat-square&logo=linkedin-white&logoColor=white">
         </a>
         <a href="http://www.sinaaboutalebi.ir/" target="_blank"><img alt="Blog"
         src="https://img.shields.io/badge/-Blog-2d2d2d?style=flat-square&logo=Blogger&logoColor=white">
+        </a>
+        <a href="https://github.com/SinaAboutalebi/SinaAboutalebi.pdf/releases" target="_blank"><img src="https://img.shields.io/badge/Read%20the%20CV-2d2d2d?style=flat-square&logo=readthedocs&logoColor=white">
         </a>
 </p>
 <details align="center">
