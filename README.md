@@ -30,11 +30,9 @@
     <summary> <samp>&#9776; Statistics</samp></summary>
     <p align="center">
         <br>
-        <img alt="Profile Views" src="https://profile-counter.glitch.me/SinaAboutalebi/count.svg?" />
-        <br>
-        <br>
-        <img alt="Sina Aboutalebi GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SinaAboutalebi&show_icons=true&theme=tokyonight&border_radius=20&card_width=500&count_private=true" />
         <br>
         <img src="https://streak-stats.demolab.com/?user=SinaAboutalebi&show_icons=true&theme=tokyonight&border_radius=20&card_width=500">
+        <br>
+        <img alt="Sina Aboutalebi GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinaAboutalebi&theme=tokyonight" />
         <br>
 </details>
